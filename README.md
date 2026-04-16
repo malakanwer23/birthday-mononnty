@@ -232,7 +232,7 @@
     <!-- Main Card -->
     <div class="container">
         <!-- Profile Image Placeholder (Using high quality aesthetic placeholder) -->
-        <<img src="images/manona.jpeg" class="profile-img">>
+        <img src="images/manona.jpeg" class="profile-img">
         
         <!-- Big Animated Title -->
         <h1>Happy Birthday Mononnty! 🎉</h1>
